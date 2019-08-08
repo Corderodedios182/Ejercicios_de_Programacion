@@ -128,3 +128,6 @@ tabla[which(tabla$x == 0),]
 
 #Por lo tanto: el maximo factor primo del numero 600851475143 es 6857 :)
 6857*1471*839*71 == 600851475143
+
+
+a = 1
